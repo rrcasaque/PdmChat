@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id"/>
+    <item name="fab" type="id"/>
+    <item name="sender" type="id"/>
+    <item name="timestamp" type="id"/>
+    <item name="etRecipient" type="id"/>
+    <item name="etMessage" type="id"/>
+    <item name="btnSend" type="id"/>
+</resources>
