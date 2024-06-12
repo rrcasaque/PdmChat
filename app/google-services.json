@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048585901444",
+    "project_id": "ifsp-pdmchat",
+    "storage_bucket": "ifsp-pdmchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048585901444:android:d130567493a710f78bb9d1",
+        "android_client_info": {
+          "package_name": "com.casaque.pdmchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx1-zo_ucF-F5zrg0vxp9-o08KnVO26g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
